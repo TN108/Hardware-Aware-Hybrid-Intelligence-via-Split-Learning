@@ -1,3 +1,5 @@
+# Hardware-Aware Hybrid Intelligence via Split Learning
+
 
 ## 📖 Overview
 
@@ -83,8 +85,8 @@ Edge AI deployment faces critical trade-offs:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/split-learning-edge.git
-cd split-learning-edge
+git clone https://github.com/TN108/Hardware-Aware-Hybrid-Intelligence-via-Split-Learning.git
+cd Hardware-Aware-Hybrid-Intelligence-via-Split-Learning
 ```
 
 ### 2. Install Arduino Dependencies
@@ -305,18 +307,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | Talha Nasir | 24280040 |
 | Khadija Hakim | 24280056 |
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@techreport{team13_2025_splitlearning,
-  title={Hardware-Aware Hybrid Intelligence via Split Learning},
-  author={Hisham and Shahid, Usman and Nasir, Talha and Hakim, Khadija},
-  year={2025},
-  institution={Team 13}
-}
-```
 
 ## 📖 References
 
@@ -337,9 +327,12 @@ This project wouldn't be possible without the open-source communities behind:
 - [Arduino](https://www.arduino.cc/)
 - [bleak BLE library](https://github.com/hbldh/bleak)
 
-
-
----
-
 <div align="center">
 
+
+
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/Hardware-Aware-Hybrid-Intelligence-via-Split-Learning?style=social)](https://github.com/yourusername/Hardware-Aware-Hybrid-Intelligence-via-Split-Learning)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/Hardware-Aware-Hybrid-Intelligence-via-Split-Learning?style=social)](https://github.com/yourusername/Hardware-Aware-Hybrid-Intelligence-via-Split-Learning/fork)
+
+</div>
