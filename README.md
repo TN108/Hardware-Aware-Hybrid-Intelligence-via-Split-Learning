@@ -1,25 +1,3 @@
-# Hardware-Aware Hybrid Intelligence via Split Learning
-
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/lite/microcontrollers)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-
-**Bandwidth-Constrained Distributed Machine Learning on Edge Devices**
-
-[Overview](#overview) •
-[Features](#features) •
-[Installation](#installation) •
-[Usage](#usage) •
-[Results](#results) •
-[Contributing](#contributing)
-
-</div>
-
----
 
 ## 📖 Overview
 
@@ -398,11 +376,3 @@ For questions or support, please open an issue or contact the team members.
 
 <div align="center">
 
-**Built with ❤️ for Edge AI**
-
-*Bringing sophisticated machine learning to ultra-low-power devices*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/split-learning-edge?style=social)](https://github.com/yourusername/split-learning-edge)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/split-learning-edge?style=social)](https://github.com/yourusername/split-learning-edge/fork)
-
-</div>
