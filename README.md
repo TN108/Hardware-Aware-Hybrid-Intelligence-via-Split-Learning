@@ -368,9 +368,7 @@ This project wouldn't be possible without the open-source communities behind:
 - [Arduino](https://www.arduino.cc/)
 - [bleak BLE library](https://github.com/hbldh/bleak)
 
-## 📞 Contact
 
-For questions or support, please open an issue or contact the team members.
 
 ---
 
