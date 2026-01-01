@@ -191,38 +191,7 @@ python recv_features_convbin_and_reply.py
 - **Final Test Accuracy**: 83.40%
 - **Dataset**: CIFAR-10 (binary subset: dog vs. not-dog)
 
-## 📁 Project Structure
 
-```
-split-learning-edge/
-│
-├── arduino_client/
-│   ├── arduino_client.ino           # Main Arduino sketch
-│   └── config.h                      # Configuration parameters
-│
-├── raspberry_pi/
-│   ├── server_model.py               # ServerNet PyTorch model
-│   ├── ble_receiver.py               # BLE communication handler
-│   ├── recv_features_convbin_and_reply.py  # Main server script
-│   └── requirements.txt              # Python dependencies
-│
-├── training/
-│   ├── train_split_and_cache.py      # End-to-end training
-│   ├── train_pi_remaining_conv_binary.py  # Pi classifier training
-│   └── utils.py                      # Training utilities
-│
-├── models/
-│   ├── client_model.tflite           # Arduino model (generated)
-│   ├── server_conv_dogbin.pth        # Pi model (generated)
-│   └── meta.json                     # Quantization params (generated)
-│
-├── docs/
-│   ├── report.pdf                    # Full technical report
-│   └── architecture.md               # Detailed architecture docs
-│
-├── LICENSE
-└── README.md
-```
 
 ## 🔬 Technical Details
 
